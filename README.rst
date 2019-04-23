@@ -1,3 +1,10 @@
+This fork was intended to experiment porting evdev to run in Micropython.
+
+
+
+Below is the original README:
+
+
 *evdev*
 -------
 
